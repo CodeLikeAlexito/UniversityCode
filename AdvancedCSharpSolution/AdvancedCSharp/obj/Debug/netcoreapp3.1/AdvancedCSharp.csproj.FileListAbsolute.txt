@@ -1,0 +1,11 @@
+D:\CodeLikeAlex\AdvancedCSharpSolution\AdvancedCSharp\bin\Debug\netcoreapp3.1\AdvancedCSharp.exe
+D:\CodeLikeAlex\AdvancedCSharpSolution\AdvancedCSharp\bin\Debug\netcoreapp3.1\AdvancedCSharp.deps.json
+D:\CodeLikeAlex\AdvancedCSharpSolution\AdvancedCSharp\bin\Debug\netcoreapp3.1\AdvancedCSharp.runtimeconfig.json
+D:\CodeLikeAlex\AdvancedCSharpSolution\AdvancedCSharp\bin\Debug\netcoreapp3.1\AdvancedCSharp.runtimeconfig.dev.json
+D:\CodeLikeAlex\AdvancedCSharpSolution\AdvancedCSharp\bin\Debug\netcoreapp3.1\AdvancedCSharp.dll
+D:\CodeLikeAlex\AdvancedCSharpSolution\AdvancedCSharp\bin\Debug\netcoreapp3.1\AdvancedCSharp.pdb
+D:\CodeLikeAlex\AdvancedCSharpSolution\AdvancedCSharp\obj\Debug\netcoreapp3.1\AdvancedCSharp.csprojAssemblyReference.cache
+D:\CodeLikeAlex\AdvancedCSharpSolution\AdvancedCSharp\obj\Debug\netcoreapp3.1\AdvancedCSharp.AssemblyInfoInputs.cache
+D:\CodeLikeAlex\AdvancedCSharpSolution\AdvancedCSharp\obj\Debug\netcoreapp3.1\AdvancedCSharp.AssemblyInfo.cs
+D:\CodeLikeAlex\AdvancedCSharpSolution\AdvancedCSharp\obj\Debug\netcoreapp3.1\AdvancedCSharp.dll
+D:\CodeLikeAlex\AdvancedCSharpSolution\AdvancedCSharp\obj\Debug\netcoreapp3.1\AdvancedCSharp.pdb
